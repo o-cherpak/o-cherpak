@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT student from Ukraine (3rd year of study) actively looking for a job or internship in the IT industry. <br>Now I am in Poland where I am studying in WSEI. Motivated to gain experience and work in a team on real projects.<br>I am a fast learner, have a technical background and am ready to work right away.<br><br>I have created responsive websites based on designs from Figma.<br>I have developed responsive web sites applications based on projects from Figma, using React<br>(Vite, TypeScript) and Tailwind CSS, integrating external APIs (maps, weather forecast), charts based on a data, sorting and filtering products.
+I am a fast learner, have a technical background and am ready to work right away.<br><br>I have created responsive websites based on designs from Figma.<br>I have developed responsive web sites applications based on projects from Figma, using React<br>(Vite, TypeScript) and Tailwind CSS, integrating external APIs (maps, weather forecast), charts based on a data, sorting and filtering products.
 
 
 ## 🌐 Socials:
