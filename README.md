@@ -1,7 +1,3 @@
-# 💫 About Me:
-I am a fast learner, have a technical background and am ready to work right away.<br><br>I have created responsive websites based on designs from Figma.<br>I have developed responsive web sites applications based on projects from Figma, using React<br>(Vite, TypeScript) and Tailwind CSS, integrating external APIs (maps, weather forecast), charts based on a data, sorting and filtering products.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oleksandr-cherpak-66b0a427b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sashacherpak2005@gmail.com) 
 
