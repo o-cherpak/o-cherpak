@@ -15,8 +15,9 @@ I am a Frontend Developer with a Bachelor's degree in Software Engineering. I sp
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=o-cherpak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Repo
+Langua_Hub - https://github.com/o-cherpak/Langua_Hub
+MLPM - https://github.com/o-cherpak/mlpm
 
----
-[![](https://komarev.com/ghpvc/?username=o-cherpak&icon=0&color=0)](https://visitcount.itsvg.in)
+In progress: Cafe - https://github.com/o-cherpak/Cafe
+
