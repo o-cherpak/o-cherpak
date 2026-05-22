@@ -1,8 +1,3 @@
-# 💫 About Me:
-I am a Frontend Developer with a Bachelor's degree in Software Engineering. I specialize in building modern web applications using React and am currently expanding my expertise into ASP.NET Core to transition into full-stack development
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oleksandr-cherpak-66b0a427b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cherpak.oleksandr.wsei@gmail.com) 
 
 # 💻 Tech Stack:
